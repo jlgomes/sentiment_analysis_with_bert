@@ -1,2 +1,2 @@
-;TN;TP;FN;FP;0;1;accuracy;precision_micro;precision_macro;precision_weighted;precision_binary;recall_micro;recall_macro;recall_weighted;recall_binary;f1Score_micro;f1Score_macro;f1Score_weighted;f1Score_binary;phi;meanSquared_error;meanAbsolute_error;medianAbsolute_error
-303;136;85;0;66;1;0,57;0,77037037;0,77037037;0,784489893;0,876600965;0,568979786;0,77037037;0,832182941;0,77037037;1;0,77037037;0,75337891;0,77592519;0,719346512;0,611130477;0,22962963;0,22962963;0
+TN;TP;FN;FP;0;1;accuracy;precision_micro;precision_macro;precision_weighted;precision_binary;recall_micro;recall_macro;recall_weighted;recall_binary;f1Score_micro;f1Score_macro;f1Score_weighted;f1Score_binary;phi;meanSquared_error;meanAbsolute_error;medianAbsolute_error
+136;85;0;66;1;0,57;0,77037037;0,77037037;0,784489893;0,876600965;0,568979786;0,77037037;0,832182941;0,77037037;1;0,77037037;0,75337891;0,77592519;0,719346512;0,611130477;0,22962963;0,22962963;0
